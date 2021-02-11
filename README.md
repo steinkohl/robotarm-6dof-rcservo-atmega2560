@@ -5,4 +5,4 @@ Commuication via USB.
 
 Supports this kind of robot arm:
 7 RC servo driven
-![supported robot arm](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![supported robot arm](https://github.com/FelixSteinkohl/robotarm-6dof-rcservo-atmega2560/blob/main/robot.png?raw=true)
